@@ -1,0 +1,37 @@
+HoverFrame {
+    background-color: #007bff; 
+    border-radius: 15px;
+}
+
+HoverFrame:hover {
+    background-color: #0056b3; 
+}
+
+QLabel {
+    color: #007bff;
+}
+
+QLabel#copyrightLabel {
+    color: #bfbfbf;
+}
+
+QLabel#gestionarLabel,
+QLabel#modificarLabel {
+    font-size: 52px;
+    font-family: Arial;
+    color: #007bff;
+}
+
+QPushButton#backButton {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    font-family: Arial;
+}
+
+QPushButton#backButton:hover {
+    background-color: #0056b3;
+}

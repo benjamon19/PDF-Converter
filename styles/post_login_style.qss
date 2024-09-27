@@ -1,0 +1,164 @@
+.hidden {
+    visibility: hidden;
+}
+
+QListWidget {
+    background-color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 14px;
+}
+
+QPushButton {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    width: 150px;
+}
+
+QPushButton:hover {
+    background-color: #0056b3;
+}
+
+QLabel {
+    font-size: 14px;
+    background-color: rgba(255, 255, 255, 0);
+    color: #555555; /* Cambiado a gris claro */
+}
+
+QScrollArea {
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+QWidget#pdfContainer {
+    background-color: #f5f5f5;
+    border: none;
+    border-radius: 5px;
+}
+
+QLabel#messageLabel {
+    color: #a0a0a0;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+QWidget#topFrame {
+    background-color: #ffffff;
+    border: 1px solid #c0c0c0;
+    border-radius: 5px;
+}
+
+QWidget#topFrame > QWidget {
+    border: none;
+}
+
+QLabel#homeLabel {
+    color: #007bff;
+    font-size: 16px;
+    padding: 10px;
+}
+
+QLabel#homeLabel:hover {
+    color: #0056b3;
+}
+
+QLabel#homeIcon, QLabel#backIcon {
+    margin-right: 5px;
+    border: 1px solid transparent;
+}
+
+QLabel#homeIcon:hover, QLabel#backIcon:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+QLabel#homeIcon:pressed, QLabel#backIcon:pressed {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+QWidget#contractContainer {
+    background-color: #ffffff;
+    border: 1px solid #c0c0c0;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+QLabel#deleteIconLabel {
+    border-radius: 12px; /* Hace el área seleccionable redonda */
+}
+
+QLabel#deleteIconLabel:hover {
+    background-color: rgba(0, 0, 0, 0.1); /* Cambia el fondo al pasar el mouse */
+    border-radius: 12px; /* Hace el área seleccionable redonda */
+}
+
+QLabel#deleteIconLabel:pressed {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 12px; /* Hace el área seleccionable redonda */
+}
+
+QLineEdit {
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+QComboBox {
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+QComboBox::drop-down {
+    subcontrol-origin: padding;
+    subcontrol-position: top right;
+    width: 15px;
+    border-left-width: 1px;
+    border-left-color: #cccccc;
+    border-left-style: solid;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+QComboBox::down-arrow {
+    image: url({arrow_icon});
+    width: 10px;
+    height: 10px;
+}
+
+QDateEdit {
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+QDateEdit::drop-down {
+    subcontrol-origin: padding;
+    subcontrol-position: top right;
+    width: 15px;
+    border-left-width: 1px;
+    border-left-color: #cccccc;
+    border-left-style: solid;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+QDateEdit::down-arrow {
+    image: url({arrow_icon});
+    width: 10px;
+    height: 10px;
+}
+
+QWidget#fieldsFrame {
+    background-color: #ffffff;
+    border: 1px solid #aaaaaa;  /* Cambiar a 1px */
+    border-radius: 10px;
+    padding: 20px;
+}

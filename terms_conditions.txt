@@ -1,0 +1,42 @@
+Términos y Condiciones
+1. Aceptación de los Términos
+Al acceder y utilizar esta aplicación, usted acepta estar sujeto a los términos y condiciones establecidos en este documento. Si no está de acuerdo con alguno de estos términos, no debe usar esta aplicación.
+
+2. Uso de la Aplicación
+Esta aplicación está destinada únicamente para uso personal y no comercial. Usted no debe utilizar la aplicación de ninguna manera que pueda dañar, deshabilitar, sobrecargar o deteriorar el servicio.
+
+3. Privacidad
+Nos comprometemos a proteger su privacidad y a asegurar que su información personal esté protegida. La recopilación y uso de información personal se rige por nuestra Política de Privacidad.
+
+4. Registro y Seguridad de la Cuenta
+Para utilizar ciertas funcionalidades de la aplicación, es posible que deba registrarse y crear una cuenta. Usted es responsable de mantener la confidencialidad de su información de inicio de sesión y de todas las actividades que ocurran bajo su cuenta.
+
+5. Funcionalidades del Menú de Usuario
+El menú de usuario le permite acceder a varias funciones, incluyendo pero no limitadas a:
+    Gestión de Contratos: Visualización, modificación y firma de contratos PDF.
+    Crear Firma: Generación y almacenamiento de firmas digitales.
+    Insertar Firma: Inserción de firmas digitales en documentos PDF seleccionados.
+    
+6. Uso de la API
+La aplicación proporciona una API para interactuar con sus servicios. Usted debe usar la API de acuerdo con las políticas de uso aceptable, y cualquier abuso de la API puede resultar en la suspensión o terminación de su acceso a los servicios.
+
+7. Integridad de los Datos
+Usted es responsable de la exactitud y la integridad de los datos que introduce en la aplicación. No somos responsables por errores o fallos causados por datos incorrectos o incompletos proporcionados por el usuario.
+
+8. Propiedad Intelectual
+Todos los contenidos, marcas registradas, servicios y logotipos disponibles en la aplicación son propiedad de sus respectivos dueños y están protegidos por derechos de autor y otras leyes de propiedad intelectual.
+
+9. Limitación de Responsabilidad
+La aplicación se proporciona "tal cual" y "según disponibilidad". No garantizamos que el servicio será ininterrumpido, libre de errores o completamente seguro. En la máxima medida permitida por la ley, no seremos responsables de ningún daño indirecto, incidental, especial, consecuente o punitivo relacionado con el uso de la aplicación.
+
+10. Cambios en los Términos
+Nos reservamos el derecho de cambiar estos términos en cualquier momento sin previo aviso. Es su responsabilidad revisar estos términos regularmente para estar informado de cualquier cambio.
+
+11. Suspensión y Terminación
+Podemos suspender o terminar su acceso a la aplicación en cualquier momento, sin previo aviso, por cualquier razón, incluyendo, pero no limitado a, incumplimiento de estos términos.
+
+12. Firma Electrónica
+Al utilizar la funcionalidad de firma digital de esta aplicación, usted acepta que la firma generada es legalmente vinculante y tiene el mismo efecto que una firma manuscrita. Usted reconoce y acepta que, al firmar un documento mediante la aplicación, está expresando su consentimiento pleno y voluntario a los términos del documento firmado.
+
+13. Contacto
+Si tiene alguna pregunta sobre estos términos, por favor no dude en contactarnos al email: oscar.ibarra05@inacapmail.cl.
