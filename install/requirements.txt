@@ -1,3 +1,5 @@
+# pip install -r install/requirements.txt
+
 PyQt5
 fitz
 pymupdf

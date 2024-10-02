@@ -44,6 +44,6 @@ remitent = 'alefito2012@gmail.com'
 destiny = input('Email destinatario: ')
 subject = 'Correo con imagen incrustada'
 body = 'Correo de Ejemplo con imagen.'
-image_path = 'images/logo.png' #a
+image_path = 'images/logo.png'
 enviar_correo_con_imagen(remitent, destiny, subject, body, image_path)
 
