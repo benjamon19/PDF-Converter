@@ -13,7 +13,6 @@ def resource_path(relative_path):
     return os.path.join(base_path, relative_path)
 
 def load_stylesheet():
-    """ Cargar y formatear la hoja de estilo """
     qss_path = resource_path("styles/style.qss")
     with open(qss_path, "r") as file:
         stylesheet = file.read()
